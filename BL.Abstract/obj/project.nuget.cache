@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrcGk+jreuVARflC2cTn5rJKlwf1c2nEPnCj1FS6LMTLEJCCZZd8lQUJlLN3S5rFxyHmCTo242fOXYM13DU5Vw==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\C#\\STOCK_MANAGMENT2\\source\\BL.Abstract\\BL.Abstract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SH21\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SH21\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SH21\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\bin\Debug\netstandard2.0\Entities.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\bin\Debug\netstandard2.0\Entities.pdb
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\bin\Debug\netstandard2.0\DAL.Abstract.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\bin\Debug\netstandard2.0\DAL.Abstract.pdb
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\Entities\obj\Debug\netstandard2.0\Entities.pdb

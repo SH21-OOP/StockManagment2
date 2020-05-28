@@ -1,0 +1,9 @@
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\bin\Debug\netstandard2.0\View.deps.json
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\bin\Debug\netstandard2.0\View.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\bin\Debug\netstandard2.0\View.pdb
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.csprojAssemblyReference.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.csproj.CoreCompileInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.AssemblyInfoInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.AssemblyInfo.cs
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\View\obj\Debug\netstandard2.0\View.pdb

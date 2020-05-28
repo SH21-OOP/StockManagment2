@@ -1,0 +1,9 @@
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\bin\Debug\netstandard2.0\DAL.Abstract.deps.json
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\bin\Debug\netstandard2.0\DAL.Abstract.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.csprojAssemblyReference.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.AssemblyInfoInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.AssemblyInfo.cs
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\bin\Debug\netstandard2.0\DAL.Abstract.pdb
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.csproj.CoreCompileInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\DAL.Abstract\obj\Debug\netstandard2.0\DAL.Abstract.pdb

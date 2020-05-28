@@ -1,0 +1,5 @@
+E:\Dev\C#\STOCK_MANAGMENT2\source\Model\bin\Debug\netstandard2.0\Model.deps.json
+E:\Dev\C#\STOCK_MANAGMENT2\source\Model\bin\Debug\netstandard2.0\Model.dll
+E:\Dev\C#\STOCK_MANAGMENT2\source\Model\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+E:\Dev\C#\STOCK_MANAGMENT2\source\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs

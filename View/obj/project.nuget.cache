@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG/jB1wj35i8C/7oocbd25/Li5IFwEjqpWnmhngxK61fRJ+3GAa5yQpCNG1a3TkZezgFrhqq3cfXMvC8aEiLTA==",
+  "success": true,
+  "projectFilePath": "E:\\Dev\\C#\\STOCK_MANAGMENT2\\source\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SH21\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SH21\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
